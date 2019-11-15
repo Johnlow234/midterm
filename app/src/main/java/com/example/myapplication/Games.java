@@ -10,7 +10,7 @@ package com.example.myapplication;
 
     public Games(String Name, String Rate, String Price){
 
-        this.Name=Name;
+        this.Name=name;
         this.Rate=Rate;
         this.Price=Price;
     }
